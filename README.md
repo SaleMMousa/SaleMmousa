@@ -8,7 +8,7 @@
 
 - :school: I am a `Software Engineering Fresh Graduate` from the Faculty of Engineering  at the University of Palestine
 - 🌱 I’m currently studying `React`
-- 📫 How to reach me **salem_mousa@outlook.com**
+- 📫 How to reach me **salem_abumousa@outlook.com**
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
 
